@@ -1,3 +1,8 @@
-# learn
-i am learning git and GitHub now
-learn from w3schools
+# Card  
+a simple card
+
+--- 
+
+[Subroto Kumar](https://fb.com/profile.php?id=100087891582825)  
+---
+![blue sky](./sky.jpg)
