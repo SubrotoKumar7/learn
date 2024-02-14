@@ -1,8 +1,54 @@
-body{
+*{
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
-h1, h4, p{
+
+/* card style */
+.container{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.card{
+  width: 300px;
+  padding: 20px;
+  background-color: #555;
+  border-radius: 10px;
+}
+.card .card-header{
+  max-width: 200px;
+  margin: auto;
+}
+.card .card-header img{
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+.card .card-body{
   text-align: center;
+  color: white;
+}
+.card .card-body #location{
+  color: greenyellow;
+  font-size: 17px;
+}
+.card .card-body h2{
+  font-size: 30px;
+  margin: 15px 0;
+}
+.card .card-body p{
+  margin: 0 0 15px 0;
+}
+.card .card-footer button{
+  display: block;
+  width: 100%;
+  padding: 7px 10px;
+  font-size: 20px;
+  margin: 7px 0;
+  border-radius: 10px;
+  background-color: #777;
+  color: #ddd;
+  border: none;
 }
