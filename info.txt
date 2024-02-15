@@ -1,3 +1,4 @@
 git and github
-"practice makes perfect"
-web developer
+"practice makes perfect" 
+software developer
+
