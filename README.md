@@ -53,6 +53,7 @@ __this text is blod__
 ![sky](./sky.jpg)  
 
 |Name|Skills|Status|  
+|---| ---|---|
 |Subroto Kumar|Web Dev|Learning|  
 |John Doe|Web Dev|Complate |
 
