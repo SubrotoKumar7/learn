@@ -1,2 +1,3 @@
 solving the logo alignment problem. now logo alignment is center
 issue #5
+fix
