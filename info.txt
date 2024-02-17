@@ -1,2 +1,5 @@
-git and github
-"practice makes perfect"
+1. git remote add origin https://github.com/w3schools-test/hello-world.git (HTTPS Connection)
+
+2. git remote add ssh-origin git@github.com:w3schools-test/hello-world.git (SSH Connection)
+
+3. git remote set-url origin git@github.com:w3schools-test/hello-world.git (HTTPS 2 SSH)
